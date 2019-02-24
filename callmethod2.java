@@ -4,7 +4,7 @@
  * from a method in the same class
  */
 
-public class CallingMethodsInSameClass
+public class callmethod2
 {
 	public static void main(String[] args) {
 		printOne();
